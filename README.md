@@ -1,8 +1,6 @@
-### Carpe Diem! Hello, this is Peter :v:
+### Hello, this is Peter :v:
 
-![profile banner](/assets/pdl-banner.jpeg)
-
-<br/>
+<img src="/assets/pdl-banner.jpeg" width="850">
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
@@ -21,8 +19,8 @@
 
 <br/>
 
-[![pdl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdl39&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![pdl39's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdl39&layout=compact&theme=dark&exclude_repo=donghunlee-personalweb)](https://github.com/anuraghazra/github-readme-stats)
+![pdl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdl39&hide=issues&show_icons=true&theme=dark)
+![pdl39's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdl39&layout=compact&theme=dark&exclude_repo=donghunlee-personalweb)
 
 <br/>
 
