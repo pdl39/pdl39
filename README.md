@@ -19,7 +19,7 @@
 
 <br/>
 
-![pdl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdl39&hide=issues&show_icons=true&theme=dark)
+![pdl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdl39&count_private=true&hide=issues&show_icons=true&theme=dark)
 ![pdl39's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdl39&layout=compact&theme=dark&exclude_repo=donghunlee-personalweb)
 
 <br/>
