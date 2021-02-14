@@ -1,8 +1,8 @@
-### Hello, this is Peter :v:
+###  Hello, this is Peter :v:
 
 <img src="/assets/pdl-banner.jpeg" width="850">
 
-### Tech Stack
+###  Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=redux&logoColor=6131AE)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue3-05122A?style=plastic&logo=Vue.js&logoColor=43B67A)&nbsp;
@@ -24,7 +24,7 @@
 
 <br/>
 
-### Project Snippets
+###  Project Snippets
 <a href="https://github.com/pdl39/pstagram" target="_blank"><img src="/assets/project-gifs/pstagram1.gif" alt="Pstagram gif" border="10" height="150">
-<a href="https://github.com/pdl39/Brokurly-FE" target="_blank"><img src="/assets/project-gifs/brokurly-main-page.gif" alt="Brokurly gif" height="150">
-<a href="https://github.com/pdl39/Wellie-FE" target="_blank"><img src="/assets/project-gifs/wellie-subscribe.gif" alt="Wellie gif" height="150">
+<a href="https://github.com/pdl39/Brokurly-FE" target="_blank"><img src="/assets/project-gifs/brokurly-main-page.gif" alt="Brokurly gif" border="10" height="150">
+<a href="https://github.com/pdl39/Wellie-FE" target="_blank"><img src="/assets/project-gifs/wellie-subscribe.gif" alt="Wellie gif" border="10" height="150">
