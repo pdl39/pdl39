@@ -25,6 +25,6 @@
 <br/>
 
 ###  Project Snippets
-<a href="https://github.com/pdl39/pstagram" target="_blank"><img src="/assets/project-gifs/pstagram1.gif" alt="Pstagram gif" height="160">&nbsp;
-<a href="https://github.com/pdl39/Brokurly-FE" target="_blank"><img src="/assets/project-gifs/brokurly-main-page.gif" alt="Brokurly gif" height="160">&nbsp;
-<a href="https://github.com/pdl39/Wellie-FE" target="_blank"><img src="/assets/project-gifs/wellie-subscribe.gif" alt="Wellie gif" height="160">
+<a href="https://github.com/pdl39/pstagram" target="_blank"><img src="/assets/project-gifs/pstagram1.gif" alt="Pstagram gif" height="155">&nbsp;
+<a href="https://github.com/pdl39/Brokurly-FE" target="_blank"><img src="/assets/project-gifs/brokurly-main-page.gif" alt="Brokurly gif" height="155">&nbsp;
+<a href="https://github.com/pdl39/Wellie-FE" target="_blank"><img src="/assets/project-gifs/wellie-subscribe.gif" alt="Wellie gif" height="155">
