@@ -1,4 +1,4 @@
-###  Hello, this is Peter!  :star: CARPE DIEM :star:
+###  Hello, this is Peter!  CARPE DIEM :v:
 
 <img src="/assets/pdl-banner.jpeg" width="850">
 
