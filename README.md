@@ -1,6 +1,6 @@
 ###  Hello, this is Peter!  CARPE DIEM :v:
 
-<img src="/assets/pdl-banner.jpeg" width="850">
+<img src="/assets/banner/pdl-banner-20200215.jpeg" width="850">
 
 ###  Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
