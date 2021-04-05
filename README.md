@@ -1,6 +1,6 @@
 ###  Hello, this is Peter. &nbsp;CARPE DIEM :v:
 
-#### Medium: https://pdl39.medium.com
+Medium: https://pdl39.medium.com </br>
 Velog: https://velog.io/@dhlee91
 
 <img src="/assets/banner/pdl-banner-20200215.jpeg" width="850">
