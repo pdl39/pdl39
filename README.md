@@ -19,6 +19,7 @@ Velog: https://velog.io/@dhlee91
 ![Webpack](https://img.shields.io/badge/Webpack-05122A?style=plastic&logo=Webpack&logoColor=7CCCF7)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=cplusplus&logoColor=1C5697)&nbsp;
 
 <br/>
 
