@@ -3,7 +3,7 @@
 Medium: https://pdl39.medium.com </br>
 Velog: https://velog.io/@dhlee91
 
-<img src="/assets/banner/pdl-banner-20200215.jpeg" width="850">
+<img src="/assets/banner/pdl-banner-20210717.jpeg" width="850">
 
 ###  Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
