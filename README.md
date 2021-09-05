@@ -1,10 +1,11 @@
-###  Hello, this is Peter. &nbsp;CARPE DIEM :v:
+### Hello, this is Peter. &nbsp;CARPE DIEM :v:
 
 Medium: https://pdl39.medium.com </br>
 
-<img src="/assets/banner/pdl-banner-20210717.jpeg" width="850">
+<img src="/assets/banner/pdl-banner-20210904.jpg" width="850">
 
-###  Tech Stack
+### Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=plastic&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
@@ -28,7 +29,8 @@ Medium: https://pdl39.medium.com </br>
 
 <br/>
 
-###  Project Snippets
+### Project Snippets
+
 <a href="https://github.com/pdl39/pstagram" target="_blank"><img src="/assets/project-gifs/pstagram1.gif" alt="Pstagram gif" height="155">&nbsp;
 <a href="https://github.com/pdl39/Brokurly-FE" target="_blank"><img src="/assets/project-gifs/brokurly-main-page.gif" alt="Brokurly gif" height="155">&nbsp;
 <a href="https://github.com/pdl39/Wellie-FE" target="_blank"><img src="/assets/project-gifs/wellie-subscribe.gif" alt="Wellie gif" height="155">
