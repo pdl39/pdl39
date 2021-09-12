@@ -17,7 +17,7 @@ Medium: https://pdl39.medium.com </br>
     ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=plastic&logo=postgresql)&nbsp;
     ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=plastic&logo=sequelize)&nbsp;
     ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=plastic&logo=socket.io)&nbsp;
-- #### _Prior Exprience_
+- #### _Prior Experience_
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
     ![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=cplusplus&logoColor=1C5697)&nbsp;
     ![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=c)&nbsp;
