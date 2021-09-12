@@ -30,7 +30,7 @@ Medium: https://pdl39.medium.com </br>
 
 <br/>
 
-### Project Snippets
+### **Project Snippets**
 
 <a href="https://github.com/vibewave/vibewave" target="_blank"><img src="/assets/project-gifs/vibewave-snippet.gif" alt="Vibewave gif" height="155">&nbsp;
 <a href="https://github.com/team-popin/popin" target="_blank"><img src="/assets/project-gifs/popin-snippet.gif" alt="Popin gif" height="155">&nbsp;
